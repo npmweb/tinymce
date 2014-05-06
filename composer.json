@@ -10,6 +10,12 @@
         "component": {
             "scripts": [
                 "js/tinymce/tinymce.min.js"
+            ],
+            "files": [
+                "js/tinymce/langs/*",
+                "js/tinymce/plugins/*",
+                "js/tinymce/skins/*",
+                "js/tinymce/themes/*"
             ]
         }
     }
