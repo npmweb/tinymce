@@ -1,6 +1,6 @@
 {
     "name": "npmweb/tinymce",
-    "description": "TinyMCE available as a Composer Component",
+    "description": "WYSIWYG HTML editor",
     "type": "component",
     "license": "GPL-2.0+",
     "require": {
